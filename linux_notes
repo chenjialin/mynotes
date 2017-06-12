@@ -1,0 +1,2 @@
+#use ssh as agent
+ssh -vTfnN -D <port> <user>@<ipaddr>
