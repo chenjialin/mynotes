@@ -10,3 +10,6 @@ Way 2
 
 什么是Ｄebian系统？
 广义的Debian是指一个致力于创建自由操作系统的合作组织及其作品，由于Debian项目众多内核分支中以Linux宏内核为主，而且Debian开发者所创建的操作系统中绝大部分基础工具来自于GNU工程，因此“Debian”常指DebianGNU/Linux。非官方内核分支还有只支持x86的DebianGNU/Hurd（Hurd微内核），只支持amd64的Dyson（OpenSolaris混合内核）等。这些非官方分支都存在一些严重的问题，没有实用性，比如Hurd微内核在技术上不成熟，而Dyson则基础功能仍不完善。“Debian”正式发音为/ˈdɛ.bi.ən/，Debian是国际化协作项目，官方未指定任何非英文名称。
+
+docker search -s 10 ubuntu //搜索收藏１０次以上的镜像
+docker search -f starts=25 centos  //搜索星标至少为２５的centos 镜像。
