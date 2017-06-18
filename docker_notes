@@ -13,3 +13,4 @@ Way 2
 
 docker search -s 10 ubuntu //搜索收藏１０次以上的镜像
 docker search -f starts=25 centos  //搜索星标至少为２５的centos 镜像。
+
